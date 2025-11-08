@@ -3,3 +3,4 @@ saya ingin menyimpan perintah-perintah webgis
 - html, ccs+, js, phuton
 - tujuan akhir webgis yang bisa di upload dan di gunakan semua pihak
 - mencari tahu tentang github
+- bingung mau buat apa
