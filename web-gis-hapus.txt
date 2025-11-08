@@ -2,3 +2,4 @@ saya ingin menyimpan perintah-perintah webgis
 - mulai dari backend sampai dengan fornend
 - html, ccs+, js, phuton
 - tujuan akhir webgis yang bisa di upload dan di gunakan semua pihak
+- mencari tahu tentang github
